@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Bomba Poster</title>
+  <desc id="desc">Warm abstract placeholder poster for Bomba.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#471B0F" />
+      <stop offset="100%" stop-color="#A64721" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <circle cx="350" cy="250" r="170" fill="#F8EBDD" fill-opacity=".12" />
+  <circle cx="1230" cy="650" r="220" fill="#F8EBDD" fill-opacity=".08" />
+  <text x="120" y="720" fill="#F8EBDD" font-family="Arial, sans-serif" font-size="132" font-weight="700">Bomba</text>
+</svg>

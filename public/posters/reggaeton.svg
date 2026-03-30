@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Reggaeton Poster</title>
+  <desc id="desc">Teal abstract placeholder poster for Reggaeton.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#152033" />
+      <stop offset="100%" stop-color="#1FA2A6" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <circle cx="350" cy="260" r="180" fill="#E8F8F8" fill-opacity=".12" />
+  <circle cx="1270" cy="640" r="230" fill="#E8F8F8" fill-opacity=".08" />
+  <text x="120" y="720" fill="#E8F8F8" font-family="Arial, sans-serif" font-size="112" font-weight="700">Reggaeton</text>
+</svg>

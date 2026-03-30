@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Salsa Poster</title>
+  <desc id="desc">Orange abstract placeholder poster for Salsa.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#502312" />
+      <stop offset="100%" stop-color="#D36B1F" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <circle cx="330" cy="260" r="180" fill="#FFF1E1" fill-opacity=".12" />
+  <circle cx="1280" cy="630" r="240" fill="#FFF1E1" fill-opacity=".08" />
+  <text x="120" y="720" fill="#FFF1E1" font-family="Arial, sans-serif" font-size="132" font-weight="700">Salsa</text>
+</svg>
